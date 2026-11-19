@@ -1,8 +1,8 @@
 // Edita este archivo: son tus datos.
 const PERFIL = {
-  nombre: "Tu nombre",
-  emoji: "🙂",
-  frase: "Escribe aquí una frase sobre ti.",
-  gustos: ["Un gusto", "Otro gusto", "Un tercer gusto"],
-  colorFavorito: "#2f5bff"
+  nombre: "Brisia",
+  emoji: "🐇",
+  frase: "soy de septimo",
+  gustos: ["Musica", "Comida", "Cafe"],
+  colorFavorito: "#c898ed"
 };
